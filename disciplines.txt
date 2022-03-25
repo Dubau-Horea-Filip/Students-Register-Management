@@ -1,0 +1,10 @@
+520;Music
+345;Algebra
+298;English
+533;Info
+868;Maths
+112;Sports
+543;Arts & Crafts
+647;Geography
+115;Logic
+662;Hystory
